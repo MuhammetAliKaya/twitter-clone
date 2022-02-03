@@ -1,0 +1,38 @@
+h1{
+    border-radius: 20px;
+   
+
+}
+
+h1:hover{
+
+    background-color: gray;
+}
+h2{
+    padding-left: 5px;
+    padding-right:5px ;
+    padding-bottom: 5px;
+
+}
+h2:hover{
+    padding-left: 5px;
+    padding-right:5px ;
+    padding-bottom: 5px;
+    background-color: gray;
+    border-radius: 9999px;
+}
+
+
+.tweetbutton{
+    width: 120%;
+    padding-top:5% ;
+    padding-bottom:5% ; 
+   padding-left: 40%;
+   border-radius: 25px;
+   background-color: #00acee;
+}
+.background{
+    background-color: white;
+    opacity: 0.9;
+
+}
